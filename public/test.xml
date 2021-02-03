@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="style9.css"?>
+<!DOCTYPE planet>
+<planet>
+<ocean>
+<name>我是xml</name>
+<area>1</area>
+<depth>2</depth>
+</ocean>
+</planet>

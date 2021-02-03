@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+}
+table {
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+.bottom-button {
+    text-align: center;
+    margin: 10px;
+}
+.ajax-response {
+    border: 1px solid #999;
+    margin: 10px;
+    padding: 10px;
+}
